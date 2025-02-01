@@ -83,7 +83,7 @@ export default function TaxCalculator() {
       <Card className="bg-gradient-to-br from-purple-100 to-indigo-100 dark:from-purple-900 dark:to-indigo-900">
         <CardHeader className="space-y-1">
           <CardTitle className="text-3xl font-bold text-center text-purple-800 dark:text-purple-200">
-            Income Tax Calculator FY 2023-24
+            Income Tax Calculator FY 2025-26
           </CardTitle>
           <p className="text-center text-sm text-purple-600 dark:text-purple-300">Calculate your income tax easily</p>
         </CardHeader>
